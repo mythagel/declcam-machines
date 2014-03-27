@@ -1,0 +1,7 @@
+{
+    "machine": "Sherline 4-Axis Mill",
+	"type": "mill",
+    "units": "metric",
+	"spindle": [ {"rpm": [70, 2800], "nm": [3.1776, 0.0706]} ]
+}
+
